@@ -3,6 +3,7 @@
 
 ### mjb ###
 btre_resources/
+/static
 
 ### Django ###
 *.log
