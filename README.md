@@ -1,4 +1,4 @@
-Me, following Brad Traversy’s [Python Django Dev To Deployment][btdtd] course.
+Me, following Brad Traversy’s [Python Django Dev To Deployment](https://www.udemy.com/course/python-django-dev-to-deployment/) course.
 
 ### Presuppositions  
 
@@ -9,4 +9,3 @@ Me, following Brad Traversy’s [Python Django Dev To Deployment][btdtd] course.
 
 
 ---  
-btdtd: https://www.udemy.com/course/python-django-dev-to-deployment/
