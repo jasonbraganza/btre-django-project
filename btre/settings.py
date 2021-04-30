@@ -15,7 +15,6 @@ import os
 from dotenv import load_dotenv
 from django.urls import base
 
-
 load_dotenv()
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
