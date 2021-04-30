@@ -47,7 +47,7 @@ def contact(request):
         "Property Listing Enquiry",
         f"There has been an inquiry for {listing}. Sign into the admin panel for more info",
         os.getenv("EMAIL_HOST_USER"),
-        [realtor_email, "jason@janusworx.com"],
+        [realtor_email, ""],  # we can also add our address to that list, to get copies
         fail_silently=False,
     )
 
